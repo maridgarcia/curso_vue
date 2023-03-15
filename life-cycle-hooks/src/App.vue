@@ -20,4 +20,6 @@ export default {
     console.log("mounted")
   }
 }
+
+// https://vuejs.org/api/composition-api-lifecycle.html#onmounted
 </script>
